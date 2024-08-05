@@ -5,7 +5,7 @@ Welcome to my Beautiful Portfolio 🥰
   <img alt="Demo" src="./images/readme.png" />
 </div>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Senhajiamal](https://github.com/amalsenhaji/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Senhajiamal](https://github.com/amalsenhaji/Portfolio). Thanks!!
 
 ## Built With
 
